@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Balsamiq Mockups 3
+Exec=env WINEPREFIX="/home/adrian/.wine" wine C:\\\\Program\\ Files\\ \\(x86\\)\\\\Balsamiq\\ Mockups\\ 3\\\\Balsamiq\\ Mockups\\ 3.exe 
+Type=Application
+StartupNotify=true
+Icon=8BE2_Balsamiq Mockups 3.0

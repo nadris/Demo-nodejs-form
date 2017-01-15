@@ -1,0 +1,19 @@
+{
+  "name": "demo-uo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "formidable": "^1.0.17",
+    "short-id": "0.1.0-1",
+    "shortid": "^2.2.6"
+  }
+}
